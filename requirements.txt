@@ -1,0 +1,4 @@
+requests
+
+# screen scraping library
+beautifulsoup4
