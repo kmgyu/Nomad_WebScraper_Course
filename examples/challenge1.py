@@ -4,7 +4,7 @@ import requests
 
 
 class Scrape:
-
+  # 돚거돚거
   def __init__(self, title, company, location, tip, url):
     self.title = title
     self.company = company
